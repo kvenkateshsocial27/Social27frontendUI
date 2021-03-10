@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Social27</name>
+   <tag></tag>
+   <elementGuidId>2088fe0f-ef7e-44d5-8cf6-7f6ae554ec4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@title='Social27']//span[@class='button-big-logo-image']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@title='Social27']//span[@class='button-big-logo-image']</value>
+   </webElementProperties>
+</WebElementEntity>

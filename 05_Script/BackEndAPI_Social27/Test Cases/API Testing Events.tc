@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API Testing Events</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07933de0-00b8-4a39-835d-4fd22ff3ad6c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>abfe0cdd-63bc-462b-a53e-aadf41549893</id>
+      <masked>false</masked>
+      <name>HttpRequest</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7e7cab9-e902-4956-a39a-e97a2e91fd17</id>
+      <masked>false</masked>
+      <name>EndPoint</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ChooseDuration</name>
+   <tag></tag>
+   <elementGuidId>68a111c9-360a-4873-a111-a288a863fe6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/app-root[1]/new-round-table-create[1]/div[2]/div[2]/div[2]/new-round-table-form[1]/form[1]/div[6]/div[3]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]/div[1]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/app-root[1]/new-round-table-create[1]/div[2]/div[2]/div[2]/new-round-table-form[1]/form[1]/div[6]/div[3]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]/div[1]/div[2]</value>
+   </webElementProperties>
+</WebElementEntity>

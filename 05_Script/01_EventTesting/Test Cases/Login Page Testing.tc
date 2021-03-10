@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Page Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57392d3a-3116-48a9-aa94-55e076986252</testCaseGuid>
+   <variable>
+      <defaultValue>'kvenkatesh@social27.com'</defaultValue>
+      <description></description>
+      <id>9398c7a7-e15f-4bc8-b431-e8fd3664176b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'social27'</defaultValue>
+      <description></description>
+      <id>17fcd2f2-f3c6-419b-9fa6-108759fccbfa</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

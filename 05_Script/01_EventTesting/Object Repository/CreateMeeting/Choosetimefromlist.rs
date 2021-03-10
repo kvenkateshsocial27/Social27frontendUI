@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Choosetimefromlist</name>
+   <tag></tag>
+   <elementGuidId>d0d697df-e36d-46a8-9f7c-066bc5c73fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[6]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/div[6]/div[2]/div[1]/div[1]/div[1]/mat-option[3]</value>
+   </webElementProperties>
+</WebElementEntity>
