@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Choosetime</name>
+   <tag></tag>
+   <elementGuidId>93264171-8e8d-4fef-9270-7e41d1ad564d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/app-root[1]/new-round-table-create[1]/div[2]/div[2]/div[2]/new-round-table-form[1]/form[1]/div[6]/div[2]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]/div[1]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/app-root[1]/new-round-table-create[1]/div[2]/div[2]/div[2]/new-round-table-form[1]/form[1]/div[6]/div[2]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]/div[1]/div[2]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AOIList</name>
+   <tag></tag>
+   <elementGuidId>dbba6c42-058a-40fd-9893-9793200ba323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body[1]/app-root[1]/new-round-table-create[1]/div[2]/div[2]/div[2]/new-round-table-form[1]/form[1]/div[7]/div[2]/div[1]/div[1]/kendo-formfield[1]/div[1]/kendo-multiselect[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/app-root[1]/new-round-table-create[1]/div[2]/div[2]/div[2]/new-round-table-form[1]/form[1]/div[7]/div[2]/div[1]/div[1]/kendo-formfield[1]/div[1]/kendo-multiselect[1]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>
